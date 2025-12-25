@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('testBavcKKjefkjwhijku.jpg');
+}
+
+.ПРИВЕТ {
+    font-size: 100px;    
+}
+
+.colored {
+    color: green;
+}
+.crossed {
+    text-decoration: line-through;
+}
+.bold {
+    font-weight: bold;
+}
+.red {
+    color: red;
+}
+#elem {
+    display: none;
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+}
+#elem.active {
+    display: block;
+}
+.float-left {
+    float: left;
+}
